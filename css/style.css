@@ -11,6 +11,12 @@ margin: 50px;
 color: #66BFBF;
 
 }
+h1:hover{
+color: gold;
+
+
+
+}
 h2{font-family: 'Montserrat', sans-serif;
 color: #66BFBF;
 padding: 1px;
