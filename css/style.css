@@ -1,0 +1,92 @@
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+font-family: 'Merriweather', serif;
+}
+h1{
+font-family: 'Sacramento', cursive;
+font-size: 580.2%;
+margin: 50px;
+color: #66BFBF;
+
+}
+h2{font-family: 'Montserrat', sans-serif;
+color: #66BFBF;}
+h3{font-family: 'Montserrat', sans-serif;
+color: #66BFBF;}
+
+.bottom-cloud{
+position: absolute;
+left: 300px;
+bottom: 300px;
+
+
+}
+.accenturepic{
+
+  margin-bottom: 0px;
+}
+.anAutomationTester{
+line-height: 2;
+font-style: italic;
+font-size: 2rem;
+font-weight: normal;
+
+}
+
+.smallhr{
+  border-width: 1px;
+  width: 40%;
+
+
+}
+.accenturepicLocation{
+
+  margin-top: 0;
+}
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 50px;
+
+
+}
+.personalInfoSection{
+text-align: center;
+width: 70%;
+margin-left: 10%;
+}
+.jobdetails{
+font-size: 20px;
+font-style: normal;
+
+
+}
+.work-Ex{
+margin: 100px auto 100px auto;
+
+}
+
+
+
+.accimagetable{
+margin-left: 250px;
+text-align: center;
+padding: 5px;
+border-spacing: 15px;
+
+}
+.top-container{
+
+  position: relative;
+  padding-top: 100px;
+}
+.accentureDetailsPara{
+  text-align: left;
+  margin-left: 20px;
+  line-height: 1.6;
+
+
+
+
+}
