@@ -19,8 +19,7 @@ color: #66BFBF;}
 position: absolute;
 left: 300px;
 bottom: 300px;
-
-
+margin-bottom: 30px;
 }
 .accenturepic{
 
@@ -31,6 +30,7 @@ line-height: 2;
 font-style: italic;
 font-size: 2rem;
 font-weight: normal;
+padding: 20px;
 
 }
 
@@ -72,7 +72,7 @@ margin: 100px auto 100px auto;
 .accimagetable{
 margin-left: 250px;
 text-align: center;
-padding: 5px;
+padding: px;
 border-spacing: 15px;
 
 }
